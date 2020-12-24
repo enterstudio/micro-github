@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/react-vienna/backend#readme",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "dotenv": "^4.0.0",
     "micro": "^6.2.1",
     "request": "^2.79.0"
